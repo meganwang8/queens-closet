@@ -1,9 +1,12 @@
 ---
 title: Contents
-layout: essay
+layout: splash
 order: 499
+abstract: |
+    Takeaways from my reconstruction
 search: true
 menu: true
+toc: true
 ---
 
 Cupcake ipsum dolor sit amet candy canes candy ice cream. Brownie chocolate bar chupa chups candy canes chocolate donut dragée. Sugar plum jelly-o bear claw candy canes croissant gummies dessert cake. Muffin candy dragée marzipan dessert sweet roll icing liquorice cake. Cheesecake cake powder caramels pie gummies fruitcake powder. Marzipan sesame snaps marshmallow donut lollipop jelly-o chocolate cake. Bear claw tootsie roll dessert jujubes pudding. Sesame snaps brownie muffin donut muffin marshmallow. Jelly-o dessert jelly beans toffee liquorice. Tiramisu gummi bears oat cake powder toffee.

@@ -1,7 +1,7 @@
 ---
 title: About the Project
 layout: page
-order: 29
+order: 28
 outputs:
   - html
 ---

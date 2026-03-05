@@ -1,9 +1,9 @@
 figure_list:
 
-  - id: "lange"
-    src: figures/lange.jpg
-    caption: "*Dorothea Lange, Resettlement Administration photographer, in California*, 1936."
-    credit: "Library of Congress Prints and Photographs Division"
+  - id: "callot"
+    src: figures/callot.jpg
+    caption: "*Jacques Callot, Engraving/Etching of Fan*, 1619."
+    credit: "Metropolitan Museum of Art"
     alt: "Shot low and looking up at an old model car on a dirt row with a hill behind. A woman sits on the roof of the car holding a large camera and smiling."
 
   - id: "evans"

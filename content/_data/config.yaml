@@ -15,12 +15,12 @@ bylineFormat: name-title # name | name-title | false
 
 bibliography:
   displayOnPage: true
-  displayShort: true
+  displayShort: false
   heading: Bibliography
 
 citations:
   divider: ', '
-  popupStyle: text # text | icon
+  popupStyle: icon # text | icon
 
 entryPage:
   sideBySide: false

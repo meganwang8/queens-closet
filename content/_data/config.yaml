@@ -43,7 +43,7 @@ licenseIcons: true
 localization:
   defaultLocale: en-us
 
-menuType: full # full | brief
+menuType: brief # full | brief
 
 navigation:
   nextButtonText: Next

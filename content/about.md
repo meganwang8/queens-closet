@@ -1,9 +1,9 @@
 ---
 title: About the Project
 layout: page
-order: 28
-outputs:
-  - html
+order: 20
+#outputs:
+  - #html
 ---
 
 This is demonstration website for Megan Wang's Early Modern Capstone Project.

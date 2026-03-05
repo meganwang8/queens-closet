@@ -1,7 +1,7 @@
 ---
-label: I
-title: American Photographs
-subtitle: Evans in Middletown
+label: 
+title: Making and Knowing
+subtitle: The Importance of Reconstructing Early Modern Recipes
 layout: essay
 order: 30
 classes:

@@ -1,27 +1,17 @@
 ---
-title: About
+title: About the Project
 layout: page
-order: 503
+order: 29
 outputs:
   - html
 ---
 
 This is demonstration website for Megan Wang's Early Modern Capstone Project.
 
-{% accordion '***Learn more ...***' %}
+{% accordion '***More information***' %}
 
-This starter theme allows for the quick customization of a few key styles to make you publication project your own.
-
-- Modern and Classic type styles
-- Cover and splash page images
-- Accent color
-- Background colors
-- Navigation bar style
-
-By diving further into the included style sheets and layout templates, there’s almost no limit to what can be done.
-
-The text excerpts included in this starter theme come from *Walker Evans: Catalogue of the Collection* by Judith Keller (Getty Publications, 1995) available for free download in the Getty’s [Virtual Library](https://www.getty.edu/publications/virtuallibrary/0892363177.html); *In Focus: Dorothea Lange* (Getty Publications, 2002); and from the J. Paul Getty Museum online collection records.
-
-The images included come from the J. Paul Getty Museum online collection records under their Open Content Program. The pictures of [Dorothea Lange](https://www.loc.gov/resource/fsa.8b27245/) and [Walker Evans](https://www.loc.gov/item/2017728481/) used in the Introduction, come from the Library of Congress Prints and Photographs Division.
+Cake candy canes caramels dragée chocolate cake jelly-o pudding. Candy chocolate bar oat cake fruitcake sesame snaps. Lollipop icing jelly-o jelly biscuit pie.
+Chocolate bar cake jelly cookie cheesecake macaroon jelly-o. Sweet roll icing gummi bears cheesecake carrot cake tart croissant. Caramels brownie liquorice cake sweet roll cookie macaroon carrot cake pastry. Carrot cake cotton candy tart cake jelly chocolate bar gingerbread cake jelly beans.
+Apple pie tiramisu candy canes powder brownie gummi bears. Tart icing topping shortbread gummies dessert. Oat cake croissant liquorice sweet roll sugar plum jelly beans sweet roll. Pudding tiramisu icing shortbread candy canes bear claw lemon drops.
 
 {% endaccordion %}

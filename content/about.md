@@ -3,7 +3,7 @@ title: About the Project
 layout: page
 order: 20
 #outputs:
-  - #html
+  #html
 ---
 
 This is demonstration website for Megan Wang's Early Modern Capstone Project.

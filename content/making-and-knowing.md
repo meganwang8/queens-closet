@@ -2,7 +2,7 @@
 label: 
 title: Making and Knowing
 subtitle: The Importance of Reconstructing Early Modern Recipes
-layout: essay
+layout: page
 order: 30
 classes:
   - page-one

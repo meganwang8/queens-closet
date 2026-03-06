@@ -2,7 +2,7 @@
 title: The Queen's Closet Opened
 subtitle: 
 layout: splash
-order: 10
+order: 20
 image: figures/callot.jpg
 ---
 

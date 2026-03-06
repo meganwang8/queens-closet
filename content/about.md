@@ -1,7 +1,10 @@
 ---
 title: About the Project
 layout: page
-order: 20
+order: 10
+search: true
+menu: true
+toc: true
 #outputs:
   #html
 ---

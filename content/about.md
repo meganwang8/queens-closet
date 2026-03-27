@@ -9,9 +9,9 @@ toc: true
   #html
 ---
 
-This digital publication contains writings, reconstructions, and reflections of my capstone, a project completed in partial fulfillment of the Early Modern World (EMOW) Concentration. As one of Brown University's most interdisciplinary concentrations, EMOW students seek to broaden their understanding of the 15th to 18th centuries through classes in varying departments such as history, literature, philosophy, art history, and more. For more information about the Center for the Early Modern World, please visit the official University website.
+This digital publication contains writings, reconstructions, and reflections of my capstone, a project completed in partial fulfillment of the Early Modern World (EMOW) Concentration. As one of Brown University's most interdisciplinary concentrations, EMOW students seek to broaden their understanding of the 15th to 18th centuries through classes in varying departments such as history, literature, philosophy, art history, and more. For more information about the Center for the Early Modern World, please visit the official University [website](https://earlymodernworld.brown.edu).
 
-{% accordion '***More information***' %}
+{% accordion '***More about the Capstone***' %}
 
 I first became interested in early modern medicine and reconstruction through taking Dr. Tara Nummedal's class "Nature, Knowledge, and Power in Early Modern Europe" in the fall of 2024. Over the semester, I learned about how people in noble courts, museums, and proto-laboratories (to name a few) acquired and practiced natural knowledge. At the end of the course, I completed a reconstruction of my own: a skin-whitening cream made of crushed almonds and gum tragacanth from the book [insert title and author]. Despite the recipe's brevity and relative simplicity, I soon realized there were many nuances in the recipe that were not revealed in writing. It was only through a hands-on reconstruction that I was able to better understand what the author meant by phrases like [insert quotes].
 
